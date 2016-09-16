@@ -1,4 +1,5 @@
 #include <stdio.h>
+<<<<<<< HEAD
 char *my_strcpy(char *t, char *s)
 +
 {
@@ -8,6 +9,10 @@ char *my_strcpy(char *t, char *s)
    return p;
 }
 size_t my_strlen(char *s)
+=======
+
+size_t my_strlen(const char *s)
+>>>>>>> 218fa6ffba14e4b434ae7af3c46166a66fc624b1
 {
    char *p = s;
 
