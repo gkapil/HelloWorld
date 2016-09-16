@@ -15,7 +15,7 @@ for strlen
 
 =======
 
-size_t my_strlen(const char *s)
+size_t my_wstrlen(const char *s)
 >>>>>>> 218fa6ffba14e4b434ae7af3c46166a66fc624b1
 {
    char *p = s;
