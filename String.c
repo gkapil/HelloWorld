@@ -10,6 +10,10 @@ char *my_strcpy(char *t, char *s)
    return p;
 }
 size_t my_strlen(char *s)
+Added function
+for strlen
+
+
 =======
 
 size_t my_strlen(const char *s)
