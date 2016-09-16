@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<conio.h>
 <<<<<<< HEAD
 char *my_strcpy(char *t, char *s)
 +
